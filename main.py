@@ -14,7 +14,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Database channel ID (change this to your database channel)
-DATABASE_CHANNEL_ID = 1234567890123456789  # REPLACE WITH YOUR CHANNEL ID
+DATABASE_CHANNEL_ID = 1452554113790251100  # REPLACE WITH YOUR CHANNEL ID
 
 # Bot branding colors
 class Colors:
